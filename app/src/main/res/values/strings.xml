@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppMine</string>
+    <string name="usu_rio">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="n_o_tem_cadastro_clique_aqui">Não tem cadastro? clique aqui.</string>
+    <string name="entrar">Entrar</string>
+    <string name="sair">Sair</string>
+</resources>
